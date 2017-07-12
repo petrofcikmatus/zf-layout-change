@@ -1,0 +1,30 @@
+{
+  "name": "petrofcikmatus/zf-layout-change",
+  "description": "Zend Framework module for easier layout change based on current module namespace.",
+  "keywords": [
+    "zf",
+    "module",
+    "layout",
+    "change"
+  ],
+  "type": "library",
+  "homepage": "https://github.com/petrofcikmatus/zf-layout-change",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matúš Petrofčík",
+      "email": "matus@petrofcik.eu",
+      "homepage": "https://www.petrofcik.eu",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^5.6 || ^7.0",
+    "zendframework/zend-mvc": "^3.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ZFLayoutChange\\": "src/"
+    }
+  }
+}

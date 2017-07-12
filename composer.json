@@ -26,5 +26,10 @@
     "psr-4": {
       "ZFLayoutChange\\": "src/"
     }
+  },
+  "extra": {
+    "zf": {
+      "module": "ZFLayoutChange"
+    }
   }
 }

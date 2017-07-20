@@ -1,7 +1,9 @@
 {
   "name": "petrofcikmatus/zf-layout-change",
-  "description": "Zend Framework module for easier layout change based on current module namespace.",
+  "description": "Zend Framework module for layout change based on used controller namespace.",
   "keywords": [
+    "zend",
+    "framework",
     "zf",
     "module",
     "layout",
